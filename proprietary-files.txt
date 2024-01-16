@@ -30,8 +30,8 @@ vendor/lib/libqomx_jpegenc.so
 vendor/lib/libqomx_jpegenc_pipe.so
 vendor/lib/libremosaic_daemon.so
 vendor/lib/libseemore.so
--vendor/lib/libts_detected_face_hal.so
--vendor/lib/libts_face_beautify_hal.so
+-vendor/lib/libts_detected_face_hal.so|356a49713693fa83d058e968c00d129d85c8acfb
+-vendor/lib/libts_face_beautify_hal.so|4b8700003fd32f5a6a650821b86ed33e73992d10
 vendor/lib/libubifocus.so
 
 # Camera-actuators
